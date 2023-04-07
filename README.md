@@ -16,7 +16,7 @@ Your goal is to classify the test data into *Assam ( -1 )* or *Bhutan ( +1 )*.<b
 Using the training data, your goal is to write one decision tree that classifies the results. Use only the attributes provided. No feature generation is allowed/required.
 
 
-** Requirements
+## Requirements
 
 You write a program that implements the generic decision tree creation process, recursively.<br>
 It creates a decision tree, using the decision tree algorithms we discussed in class. The output of this program is another program, a trained classifier.
