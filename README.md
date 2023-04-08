@@ -25,7 +25,7 @@ The trained classifier program must be able to read in the *.csv file that is us
 
 The goal of your decision tree mentor program is to select which attributes to use, in which order, and the appropriate thresholds. You will use the data in the training_data file to write this program. Then you will run this program on the validation_data file, and guess the classification of each.
 
-![program_flow](program_flow.png){width=400px}
+![program_flow](program_flow.png)
 
 
 
